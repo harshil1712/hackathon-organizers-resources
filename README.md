@@ -78,3 +78,4 @@ Missing something? Feel free to send a PR ⚡️
 | Tally Forms | Form         | Free                                      | [Link](https://tally.so/)                                                             |
 | Airtable    | Databae/Form | Free (with limitations)                   | [Link](https://airtable.com/invite/r/J8pSjpKY)                                        |
 | Devpost     | Submission   | Free (for student hackathons)             | [Link](https://devpost.com)                                                           |
+| WebCaptioner| Live Caption | Free                                      | [Link](https://webcaptioner.com)                                                      |

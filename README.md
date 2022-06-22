@@ -68,14 +68,15 @@ Missing something? Feel free to send a PR ⚡️
 
 ## Misc.
 
-| Name        | Type         | Cost                                      | Link                                                                                  |
-| ----------- | ------------ | ----------------------------------------- | ------------------------------------------------------------------------------------- |
-| n8n         | Automation   | Free                                      | [Link](https://n8n.io)                                                                |
-| Mailgun     | Email        | Free (with GitHub Student Developer Pack) | [Link](https://education.github.com/pack?sort=popularity&tag=Infrastructure+%26+APIs) |
-| SendGrid    | Email        | Free (100 emails/day)                     | [Link](https://sendgrid.com/)                                                         |
-| Typeform    | Form         | Free (with GitHub Student Developer Pack) | [Link](https://education.github.com/pack?sort=popularity&tag=Marketing)               |
-| Google Form | Form         | Free                                      | [Link](https://docs.google.com/forms)                                                 |
-| Tally Forms | Form         | Free                                      | [Link](https://tally.so/)                                                             |
-| Airtable    | Databae/Form | Free (with limitations)                   | [Link](https://airtable.com/invite/r/J8pSjpKY)                                        |
-| Devpost     | Submission   | Free (for student hackathons)             | [Link](https://devpost.com)                                                           |
-| WebCaptioner| Live Caption | Free                                      | [Link](https://webcaptioner.com)                                                      |
+| Name                                   | Type         | Cost                                      | Link                                                                                                        |
+| -------------------------------------- | ------------ | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| n8n                                    | Automation   | Free                                      | [Link](https://n8n.io)                                                                                      |
+| Mailgun                                | Email        | Free (with GitHub Student Developer Pack) | [Link](https://education.github.com/pack?sort=popularity&tag=Infrastructure+%26+APIs) |
+| SendGrid                               | Email        | Free (100 emails/day)                     | [Link](https://sendgrid.com/)                                                                              |
+| Typeform                               | Form         | Free (with GitHub Student Developer Pack) | [Link](https://education.github.com/pack?sort=popularity&tag=Marketing)               |
+| Google Form                            | Form         | Free                          | [Link](https://docs.google.com/forms)                                                                                  |
+| Tally Forms                            | Form         | Free                          | [Link](https://tally.so/)                                                                                              |
+| Airtable                               | Databae/Form | Free (with limitations)       | [Link](https://airtable.com/invite/r/J8pSjpKY)                                                                          |
+| Devpost                                | Submission   | Free (for student hackathons) | [Link](https://devpost.com)                                                                                            |
+| WebCaptioner                           | Live Caption | Free                          | [Link](https://webcaptioner.com)                                                                                        |
+| Hackathon Submission Platform Template | Submission   | Free                          | [Link](https://github.com/adityaoberai/hackathon-submissions-platform-template)                                    |
